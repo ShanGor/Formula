@@ -1,0 +1,8 @@
+a = (1 + 2 + 3) * 3
+b = -6+8
+f(x, hello) = f(true, false) - 58.6 * 72
+f(1) = if(x==2, "Yes", "No")
+f(T) = f(T-1) + model
+gender = "\"M"
+gender1 = 'F'
+func(1) = f((x==2 and y==3) or (x==2 and y==3))
